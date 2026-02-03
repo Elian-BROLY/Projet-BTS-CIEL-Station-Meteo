@@ -1,8 +1,0 @@
-28/01
-Compréhension du sujet du projet et création de la préviualisation de mon application QT/Android
-
-02/02
-Début du codage et compréhension des différentes bibliothèque utilisé
-
-03/02
-Essai d'envoie sur un téléphone Android et continuer la suite de la mise en place de l'application QT
