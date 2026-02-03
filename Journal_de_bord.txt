@@ -1,9 +1,11 @@
 28/01
-Compréhension et prise en main du projet 
+ComprÃ©hension et prise en main du projet 
 
 02/02
-Création de la prévisualisation de l'application Android sous draw.io + création et début du projet sur Qt Creator
+CrÃ©ation de la prÃ©visualisation de l'application Android sous draw.io + crÃ©ation et dÃ©but du projet sur Qt Creator
 
 03/02
-Test de connexion téléphone Android au ordinateur du lycée (fail)
+Test de connexion tÃ©lÃ©phone Android au ordinateur du lycÃ©e (fail)
 Mise en place de tout (page de connexion, menu, graphiques, boutons, affichage)
+CrÃ©ation d'une simulateur de valeurs pour les tests en attendant vraies valeurs des capteurs et la base de donnÃ©es (en c++ sur vs2019)
+CrÃ©ation et utilisation du dÃ©pot GitHub du projet
