@@ -1,8 +1,9 @@
 28/01
-Compréhension du sujet du projet et création de la préviualisation de mon application QT/Android
+ComprÃ©hension du sujet du projet et crÃ©ation de la prÃ©viualisation de mon application QT/Android
 
 02/02
-Début du codage et compréhension des différentes bibliothèque utilisé
+DÃ©but du codage et comprÃ©hension des diffÃ©rentes bibliothÃ¨que utilisÃ©
 
 03/02
-Essai d'envoie sur un téléphone Android et continuer la suite de la mise en place de l'application QT
+
+Essai d'envoie sur un tÃ©lÃ©phone Android mais ca ne fonctionne pas (a cause du proxy/firewall du lycÃ©e je pense) et continuer la suite de la mise en place de l'application QT
