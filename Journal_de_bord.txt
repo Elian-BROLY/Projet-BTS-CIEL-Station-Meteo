@@ -9,3 +9,8 @@ Test de connexion téléphone Android au ordinateur du lycée (fail)
 Mise en place de tout (page de connexion, menu, graphiques, boutons, affichage)
 Création d'une simulateur de valeurs pour les tests en attendant vraies valeurs des capteurs et la base de données (en c++ sur vs2019)
 Création et utilisation du dépot GitHub du projet
+
+09/02
+Connexion de qt au téléphone virtuel android studio
+Essai de recupération des informations de simulation du le téléphone virtuel
+Création du synoptique de fonctionnement et du powerpoint pour la revue n°1
