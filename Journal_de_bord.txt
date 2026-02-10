@@ -14,3 +14,7 @@ Création et utilisation du dépot GitHub du projet
 Connexion de qt au téléphone virtuel android studio
 Essai de recupération des informations de simulation du le téléphone virtuel
 Création du synoptique de fonctionnement et du powerpoint pour la revue n°1
+
+10/02
+Basculement sur la tour plus puissante donc réinstallation de qt creator, android studio (téléphone virtuel), sdk, ndk, tout ce qu'il faut 
+Changement du code pour avoir du responsive à la place du hard
