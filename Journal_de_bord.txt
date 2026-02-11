@@ -18,3 +18,6 @@ Création du synoptique de fonctionnement et du powerpoint pour la revue n°1
 10/02
 Basculement sur la tour plus puissante donc réinstallation de qt creator, android studio (téléphone virtuel), sdk, ndk, tout ce qu'il faut 
 Changement du code pour avoir du responsive à la place du hard
+
+11/02
+Réalisation du powerpoint pour la revue 1 + synoptique de fonctionnement et diagramme de cas d'utilisation
