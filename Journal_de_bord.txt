@@ -21,3 +21,11 @@ Changement du code pour avoir du responsive à la place du hard
 
 11/02
 Réalisation du powerpoint pour la revue 1 + synoptique de fonctionnement et diagramme de cas d'utilisation
+
+02/03
+Réalisation du diagramme de séquence de ma partie
+
+03/03
+Amélioration du diagramme (séparé)
+Mise à jour du diapo pour revue 1
+Explication d'un bouton (température)
