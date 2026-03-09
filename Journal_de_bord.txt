@@ -29,3 +29,9 @@ Réalisation du diagramme de séquence de ma partie
 Amélioration du diagramme (séparé)
 Mise à jour du diapo pour revue 1
 Explication d'un bouton (température)
+
+04/03
+Diagramme d'exigence
+
+09/03
+Ajout de slide qui présente le point de rosée
