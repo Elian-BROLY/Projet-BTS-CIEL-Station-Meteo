@@ -35,3 +35,23 @@ Diagramme d'exigence
 
 09/03
 Ajout de slide qui présente le point de rosée
+
+10/03
+Amélioration du diaporama pour la revue 1
+
+11/03
+Absent
+
+16/03
+Passage de la revue 1 
+
+17/03
+Mise en place des pcs dans le meme réseaux pour pouvoir travailler et communiquer avec la bdd
+
+18/03
+Probleme de driver pour la connexion à la bdd (Utilisation du MySQL ODBC 9.6 Unicode Driver)
+
+23/03
+Connexion du code qt à la bdd mysql
+
+24/03
