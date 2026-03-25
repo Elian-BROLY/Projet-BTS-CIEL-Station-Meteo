@@ -55,3 +55,9 @@ Probleme de driver pour la connexion à la bdd (Utilisation du MySQL ODBC 9.6 Un
 Connexion du code qt à la bdd mysql
 
 24/03
+Création d'une bdd sur une vm 
+J'ai aidé cyril pour ses connexions a la bdd
+
+25/03 
+Réglage des derniers problèmes 
+Récupération des données de la bdd pour le menu principal et pour les différents graphiques
