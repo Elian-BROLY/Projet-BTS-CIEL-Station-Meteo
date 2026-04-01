@@ -61,3 +61,11 @@ J'ai aidé cyril pour ses connexions a la bdd
 25/03 
 Réglage des derniers problèmes 
 Récupération des données de la bdd pour le menu principal et pour les différents graphiques
+
+30/03
+Mise en place de la connexion SQL à l'émulateur android
+
+31/03
+Préparation revue 2 + continue de mettre en place les connexion, faire les graphiques comme il faut, bien tout récupérer
+01/04
+Préparation revue 2 + amélioration de l'interface de mon app 
